@@ -1,6 +1,6 @@
 {
   "name": "skill-dyndns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add dynamic dns to autonomous agent",
   "main": "index.js",
   "scripts": {

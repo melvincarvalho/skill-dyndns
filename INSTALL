@@ -1,0 +1,13 @@
+# providers
+# namecheap
+# afriad.org
+# cloudfare
+#
+# namecheap example
+#
+# set up a record
+#
+# git config dyndns.secret <secret>
+#
+# curl "http://dynamicdns.park-your-domain.com/update?host=sub&domain=domain&password=secret&ip=1.2.3.4"
+# add this curl line to run npm dyndns where secret = $(git config dyndns.secret)

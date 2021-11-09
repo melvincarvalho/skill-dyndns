@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>skill-serve</h1>
+  <h1>skill-dyndns</h1>
 </div>
 
 <div align="center">  
-Serve an autonomous agent
+Add dynamic dns to autonomous agent
 </div>
 
 ---

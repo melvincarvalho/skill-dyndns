@@ -42,7 +42,7 @@ Dyndns is a modular skill to be used in composing [autonomous agents](https://aa
 To get instructions for installing dynamic dns run
 
 ```sh
-aam install skill-dyndns
+aam skill skill-dyndns
 ```
 
 ---

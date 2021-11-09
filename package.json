@@ -1,0 +1,24 @@
+{
+  "name": "skill-dyndns",
+  "version": "0.0.1",
+  "description": "Add dynamic dns to autonomous agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/skill-dyndns.git"
+  },
+  "keywords": [
+    "aam",
+    "skill",
+    "aam-skill"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/skill-dyndns/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/skill-dyndns#readme"
+}
